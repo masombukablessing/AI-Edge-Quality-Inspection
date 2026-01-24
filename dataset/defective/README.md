@@ -1,0 +1,1 @@
+Defective product images
